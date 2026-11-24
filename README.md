@@ -24,6 +24,10 @@ This repository is research only. There is no code yet.
 - Commercial break recordings are used only privately. They are never committed here and never used to train anything public.
 - Product names are "inspired by" only. This project makes no brand claims.
 
+## Workflow
+
+Implementer: Grok Build on Grok 4.7. Reviewer: Google Neon / Antigravity. The implementer and reviewer come from different model families.
+
 ## Status
 
 Research notes are in [`docs/research/`](docs/research/). No implementation work has started.
